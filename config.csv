@@ -1,0 +1,5 @@
+input,/home/ravi/Documents/DWDM/Assignment1/apriori/datasets/in1.csv
+confidence,0.8
+output,/home/ravi/Documents/DWDM/Assignment1/apriori/myout.csv
+support,0.2
+flag,1
